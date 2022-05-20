@@ -55,7 +55,7 @@ p {
 }
 
 .background-orange {
-  background-color: rgb(181, 100, 63);
+  background-color: #e48751;
   background-image: url(/img/background-orange.svg);
   background-size: 100%;
   background-size: cover; 
