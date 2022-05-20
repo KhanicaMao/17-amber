@@ -48,7 +48,7 @@ p {
 }
 
 .background-purple {
-  background-color: rgb(129, 67, 157);
+  background-color: #a06aad;
   background-image: url(/img/background-purple.svg);
   background-size: 100%;
   background-size: cover; 
