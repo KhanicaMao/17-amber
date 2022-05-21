@@ -35,6 +35,11 @@ h1 {
   font-family: 'Milenia';
 }
 
+h2 {
+  font-size: 40px;
+  font-family: 'Milenia';
+}
+
 p {
   font-size: 19px;
   padding: 0 30px 20px 30px;
@@ -63,7 +68,7 @@ p {
 
 .logo {
   width: 100px;
-  transform: translate(140px, 10px);
+  transform: translate(135px, 10px);
   padding-bottom: 15px;
 }
 
@@ -129,16 +134,84 @@ p {
   width: 85px;
 }
 
+.icon-media {
+  display: flex;
+  width: 140px;
+  flex-direction: row;
+  justify-content:space-between;
+  padding: 40px 0 15px 15px;
+  transition: all 0.2s ease;
+}
+
 footer p {
   color: black;
 }
 
-.icon-media {
-  display: flex;
-  width: 45px;
-  flex-direction: row;
-  justify-content:space-between;
-  align-items: center;
-  padding: 50px 0 10px 15px;
-  transition: all 0.2s ease;
+.presentation {
+  background-image: url(/img/introduction-packaging.webp);
+  background-size: cover;
+  background-size: 100%;
+  background-color: #8dc6bc;
+}
+
+.marque {
+  width: 80%;
+  transform: translate(35px);
+  background-color: rgba(38, 31, 31, 0.194);
+}
+
+.line {
+  width: 280px;
+  transform: translate(40px, 0px);
+}
+
+.shop-tom {
+  background-color: #8dc6bc;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+
+.shop-coyote {
+  background-color: #a06aad;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+
+.shop-grominet {
+  background-color: #e48751;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+
+.description {
+  color: black;
+}
+
+.titre-carte {
+  color: black;
+  padding: 20px 0;
+}
+
+.button-shop {
+  width: 180px;
+  padding-top: 10px;
+  transform: translate(100px, 0px);
+}
+
+.picture-left {
+  float: left;
+  margin: 20px 10px;
+  width: 60px; 
+} 
+
+.map {
+  color: black;
+}
+
+.picture-carte {
+  padding: 20px 0;
+}
+
+.accueil-packaging {
+  margin: 0 30px;
 }
