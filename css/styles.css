@@ -36,7 +36,7 @@ h1 {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 45px;
   font-family: 'Milenia';
 }
 
@@ -46,22 +46,19 @@ p {
 }
 
 .background-ment {
-  background-color: #8dc6bc;
-  background-image: url(/img/1x/background-ment-20.jpg);
+  background-image: url(../img/1x/background-ment.png);
   background-size: 100%;
   background-size: cover; 
 }
 
 .background-purple {
-  background-color: #a06aad;
-  background-image: url(/img/background-purple.svg);
+  background-image: url(../img/1x/background-purple.png);
   background-size: 100%;
   background-size: cover; 
 }
 
 .background-orange {
-  background-color: #e48751;
-  background-image: url(/img/background-orange.svg);
+  background-image: url(../img/1x/background-orange.png);
   background-size: 100%;
   background-size: cover; 
 }
@@ -150,16 +147,16 @@ footer p {
 }
 
 .presentation {
-  background-image: url(../img/introduction-packaging.webp);
+  background-image: url(../img/introduction-picture.webp);
   background-size: cover;
   background-size: 100%;
   margin: 5px 0 30px 0;
 }
 
 .marque {
-  width: 80%;
-  transform: translate(30px);
-  padding-bottom: 350px;
+  width: 70%;
+  transform: translate(55px, -15px);
+  padding-bottom: 325px;
   padding-top: 40px;
 }
 
