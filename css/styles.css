@@ -46,19 +46,19 @@ p {
 }
 
 .background-ment {
-  background-image: url(../img/1x/background-ment.png);
+  background-image: url(../img/background-ment.png);
   background-size: 100%;
   background-size: cover; 
 }
 
 .background-purple {
-  background-image: url(../img/1x/background-purple.png);
+  background-image: url(../img/background-purple.png);
   background-size: 100%;
   background-size: cover; 
 }
 
 .background-orange {
-  background-image: url(../img/1x/background-orange.png);
+  background-image: url(../img/background-orange.png);
   background-size: 100%;
   background-size: cover; 
 }
@@ -165,6 +165,10 @@ footer p {
   transform: translate(40px, 0px);
 }
 
+.description {
+  color: black;
+}
+
 .accueil-packaging {
   margin: 0 30px;
 }
@@ -191,10 +195,6 @@ footer p {
   width: 180px;
   padding-top: 10px;
   transform: translate(100px, 0px);
-}
-
-.description {
-  color: black;
 }
 
 .titre-carte {
