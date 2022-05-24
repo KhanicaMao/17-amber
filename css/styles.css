@@ -49,18 +49,21 @@ p {
   background-image: url(../img/background-ment.png);
   background-size: 100%;
   background-size: cover; 
+  box-sizing: border-box;
 }
 
 .background-purple {
   background-image: url(../img/background-purple.png);
   background-size: 100%;
   background-size: cover; 
+  box-sizing: border-box;
 }
 
 .background-orange {
   background-image: url(../img/background-orange.png);
   background-size: 100%;
-  background-size: cover; 
+  background-size: cover;
+  box-sizing: border-box; 
 }
 
 .logo {
